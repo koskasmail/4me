@@ -2,11 +2,18 @@
 
 # icons
 
+### iconoir 
 ```
 https://iconoir.com/
+```
 
+### feathericons 
+```
 https://feathericons.com/
+```
 
+### heroicons 
+```
 https://heroicons.com/
 ```
 
