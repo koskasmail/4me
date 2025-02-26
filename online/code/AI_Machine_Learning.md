@@ -3,9 +3,9 @@
 # icons
 
 ### w3schools 
-```
-[w3schools](https://www.w3schools.com/ai/)
-```
+
+* [w3schools](https://www.w3schools.com/ai/)
+
 
 ### ...
 ```
