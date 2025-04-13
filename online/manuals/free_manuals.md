@@ -8,7 +8,7 @@
 -----
 
 #### online manual
-* ...
+* [quickref.me](https://quickref.me/)
 
 
 -----
