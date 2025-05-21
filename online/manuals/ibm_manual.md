@@ -15,7 +15,8 @@
 * https://www.scribd.com/doc/310176204/Building-IBM-Enterprise-Content-Management-Solutions-From-End-to-En
 * https://books.apple.com/us/book/customizing-and-extending-ibm-content-navigator/id884377382
 
-
+#### subjects
+* https://books.apple.com/us/book/customizing-and-extending-ibm-content-navigator/id884377382
 
 -----
 
