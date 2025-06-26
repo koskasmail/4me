@@ -7,6 +7,9 @@
 * [IBM FileNet P8 Platform and Architecture](https://www.redbooks.ibm.com/redbooks/pdfs/sg247667.pdf)
 * [Introducing IBM FileNet Business Process Manager](https://www.redbooks.ibm.com/redbooks/pdfs/sg247509.pdf)
 * [IBM High Availability Solution for IBM FileNet P8 Systems](https://www.redbooks.ibm.com/redbooks/pdfs/sg247700.pdf)
+* [Building Enterprise Search Solutions using IBM Content Analytics with Enterprise Search](https://www.redbooks.ibm.com/technotes/tips1147.pdf)
+* [Creating Robust and Effective Claims Solutions with IBM Case Manager](https://www.redbooks.ibm.com/technotes/tips1146.pdf)
+
 
 -----
 
