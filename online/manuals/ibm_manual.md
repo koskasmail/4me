@@ -10,6 +10,16 @@
 * [Building Enterprise Search Solutions using IBM Content Analytics with Enterprise Search](https://www.redbooks.ibm.com/technotes/tips1147.pdf)
 * [Creating Robust and Effective Claims Solutions with IBM Case Manager](https://www.redbooks.ibm.com/technotes/tips1146.pdf)
 
+-----
+
+### online check
+* https://delivery04.dhe.ibm.com/sar/CMA/OSA/0bw93/0/DAEJA_VIEWONE_5.0.14_Readme.htm
+* https://delivery04.dhe.ibm.com/sar/CMA/OSA/08je1/0/5.0.6_DAEJA_VIEWONE_IFIX007_Readme.htm
+* https://download4.boulder.ibm.com/sar/CMA/OSA/0cpn6/1/5.0.14_DAEJA_VIEWONE_IFIX007_Readme.htm
+* https://www.ibm.com/support/pages/ibm-daeja-viewone-5014-release-notes
+* https://www.ibm.com/support/pages/node/295281
+* https://www.ibm.com/support/pages/ibm-navigator-mobile-publication-library
+* [???](https://github.com/ibm-ecm/ibm-navigator-mobilesdk-sample/blob/master/IBMNavigatorMobileiOSSDK_Readme.pdf) 
 
 -----
 
