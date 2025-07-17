@@ -5,11 +5,14 @@
 * [main page ](https://www.redbooks.ibm.com/)
 * [Customizing and Extending -- IBM Content Navigator](https://www.redbooks.ibm.com/redbooks/pdfs/sg248055.pdf)
 * [IBM FileNet P8 Platform and Architecture](https://www.redbooks.ibm.com/redbooks/pdfs/sg247667.pdf)
+* [Installing, Configuring, and Using IBM Daeja ViewONE Version 4.1.3.pdf](https://www.ibm.com/support/pages/system/files/support/swg/swgdocs.nsf/0/7f14f1f4d7e09e8885257df600621486/$FILE/GC27-8105-)
+* 
 * [Introducing IBM FileNet Business Process Manager](https://www.redbooks.ibm.com/redbooks/pdfs/sg247509.pdf)
 * [IBM High Availability Solution for IBM FileNet P8 Systems](https://www.redbooks.ibm.com/redbooks/pdfs/sg247700.pdf)
 * [Building Enterprise Search Solutions using IBM Content Analytics with Enterprise Search](https://www.redbooks.ibm.com/technotes/tips1147.pdf)
 * [Creating Robust and Effective Claims Solutions with IBM Case Manager](https://www.redbooks.ibm.com/technotes/tips1146.pdf)
-
+*
+*
 -----
 
 ### online check
@@ -19,7 +22,16 @@
 * https://www.ibm.com/support/pages/ibm-daeja-viewone-5014-release-notes
 * https://www.ibm.com/support/pages/node/295281
 * https://www.ibm.com/support/pages/ibm-navigator-mobile-publication-library
-* [???](https://github.com/ibm-ecm/ibm-navigator-mobilesdk-sample/blob/master/IBMNavigatorMobileiOSSDK_Readme.pdf) 
+* [??1](https://github.com/ibm-ecm/ibm-navigator-mobilesdk-sample/blob/master/IBMNavigatorMobileiOSSDK_Readme.pdf)
+* [??2](https://www.google.com/search?q=IBM+Daeja+ViewONE+manual+for+programming&safe=active&sca_esv=41b88c58e4770841&rlz=1C1GCEA_en&sxsrf=AE3TifP1D6dko-JaKq9KZeZ6uu2kRi4beg%3A1752750117422&ei=Jdh4aMLLGffgkdUPn5HT8AI&ved=0ahUKEwiC8oOB38OOAxV3cKQEHZ_IFC4Q4dUDCBA&uact=5&oq=IBM+Daeja+ViewONE+manual+for+programming&gs_lp=Egxnd3Mtd2l6LXNlcnAiKElCTSBEYWVqYSBWaWV3T05FIG1hbnVhbCBmb3IgcHJvZ3JhbW1pbmcyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI3CZQlANYmyVwAXgAkAEAmAHbAqAB-RuqAQcwLjQuNS41uAEDyAEA-AEBmAIPoAL_HMICCRAAGLADGAgYHsICCBAAGLADGO8FwgILEAAYgAQYsAMYogTCAgYQABgWGB7CAgUQABjvBcICCBAAGIAEGKIEwgIFECEYoAHCAgUQIRifBZgDAIgGAZAGBpIHBzEuMS44LjWgB4cxsgcHMC4xLjguNbgH8BzCBwYyLTEyLjPIB1o&sclient=gws-wiz-serp
+)
+* https://www.ibm.com/support/pages/ibm-navigator-mobile-publication-library
+* https://www.ibm.com/support/pages/ibm-daeja-viewone-product-documentation-v411
+* https://www.ibm.com/support/pages/download-ibm-daeja-viewone-version-411
+* https://www.ibm.com/support/pages/ibm-daeja-viewone-product-documentation-v41
+* https://www.ibm.com/support/pages/ibm-daeja-viewone-product-documentation-v415
+* https://www.ibm.com/support/pages/ibm-daeja-viewone-virtual-developers-guide
+
 
 -----
 
