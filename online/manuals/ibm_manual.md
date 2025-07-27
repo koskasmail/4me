@@ -1,12 +1,31 @@
 <a name="topage"></a>
 
+### IBM TIP
+* navigator-text-search-tips
+   * https://www.ibm.com/docs/en/content-navigator/3.1.0?topic=navigator-text-search-tips
+* Tips for how to customize Daeja viewer
+   * https://www.ibm.com/docs/en/daeja-viewone/5.0.x?topic=customizing
+   * https://www.ibm.com/docs/en/daeja-viewone/5.0.x?topic=customizing-virtual-viewer-by-using-javascript-api
+   * https://www.ibm.com/docs/en/daeja-viewone/5.0.x?topic=reference-javascript-api
+* the scope of a Support Case
+   * https://www.ibm.com/support/pages/how-technical-questions-qa-are-handled-ibm-support
+* Tips for how to customize Daeja viewer
+   * https://community.ibm.com/community/user/groups/community-home/digestviewer?communitykey=2b67f465-a5fe-4a66-ad25-f5e767b607e3
+* plug-in in ICN to customize the Daeja viewer:
+   * https://www.ibm.com/support/pages/using-icn-plugin-customize-daeja-viewone-launch
+* IBM Support Forums for community help
+   * https://community.ibm.com/community/user/automation/communities/community-home/digestviewer?communitykey=2b67f465-a5fe-4a66-ad25-f5e767b607e3
+* IBM ECM Lab Services (billable):
+   * https://www.ibm.com/products/expertlabs/security
+
+
+
 ### ibm_manual
 
 * [main page ](https://www.redbooks.ibm.com/)
 * [Customizing and Extending -- IBM Content Navigator](https://www.redbooks.ibm.com/redbooks/pdfs/sg248055.pdf)
 * [IBM FileNet P8 Platform and Architecture](https://www.redbooks.ibm.com/redbooks/pdfs/sg247667.pdf)
 * [Installing, Configuring, and Using IBM Daeja ViewONE Version 4.1.3.pdf](https://www.ibm.com/support/pages/system/files/support/swg/swgdocs.nsf/0/7f14f1f4d7e09e8885257df600621486/$FILE/GC27-8105-01.pdf)
-* 
 * [Introducing IBM FileNet Business Process Manager](https://www.redbooks.ibm.com/redbooks/pdfs/sg247509.pdf)
 * [IBM High Availability Solution for IBM FileNet P8 Systems](https://www.redbooks.ibm.com/redbooks/pdfs/sg247700.pdf)
 * [Building Enterprise Search Solutions using IBM Content Analytics with Enterprise Search](https://www.redbooks.ibm.com/technotes/tips1147.pdf)
