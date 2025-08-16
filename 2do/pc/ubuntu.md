@@ -6,7 +6,7 @@
 
 #### install
 * [ ] vim (vi improve)
-* 
+    * [ ] https://he.wikipedia.org/wiki/Vim
 
 #### DEV
 
