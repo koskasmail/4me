@@ -4,6 +4,7 @@
 
 #### TOP image editors
 * [imageonline](https://imageonline.co/)
+* [mega-creator](https://icons8.com/mega-creator/)
 
 #### image editors
 * [resize-image](https://www.befunky.com/create/resize-image/)
