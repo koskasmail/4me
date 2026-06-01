@@ -11,6 +11,13 @@
     * not exit - error message -or- create a new configuration file
 * load configuration file to memory
 
+#### onload.json
+* path: "c:\";
+* network path: "\\srv1\share\...");
+* search pattern: "\\srv1\share\....);
+
+#### create config editor:
+* path: ""
 
 ----
 
