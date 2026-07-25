@@ -12,6 +12,11 @@
 
 -----
 
+#### AI/python
+* https://github.com/ed-donner
+   * https://github.com/ed-donner/llm_engineering
+
+-----
 #### jsp
 * xxx
 
